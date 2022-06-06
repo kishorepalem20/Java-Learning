@@ -28,3 +28,13 @@ public class StringClass {
         System.out.println(lastString);
     }
 }
+
+/*
+Strings in Java are immutable:
+
+when I said you can delete characters out of a string, that's not strictly true. Because Strings in Java are immutable. That means you can't change a String after it's created. Instead, what happens is a new String is created.
+
+ The code we used To Append Strings Was inefficient
+
+ As a result of a String being created, appending values like this is inefficient and not recommended.
+ */
