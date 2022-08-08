@@ -140,4 +140,12 @@ Java uses the concept of a wrapper class for all eight primitive types- In the c
 
 In this case, we are using the MIN_VALUE and MAX_VALUE to get java to tell us the minimum and maximum ranges of numbers that can be stored.
 
+what is a Comment?
+
+Comments are ignored by the computer and are added to a program to help describe something. Comments are there for humans.@
+
+We use // infront of any code, or on a blank line. Anything after the // right through to the end of the line is ignored by the computer.
+
+Aside from describing something about a program, comments can be used to temporarily disable code.
+
 */
